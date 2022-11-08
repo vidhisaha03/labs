@@ -1,0 +1,39 @@
+.decoration{
+    text-decoration: line-through;
+}
+
+.color{
+    color: blue;
+}
+
+.align{
+    text-align: center;
+}
+
+.transform{
+    text-transform: uppercase;
+}
+
+.spacing{
+    letter-spacing: 9px;
+}
+
+.padding{
+    padding-right: 100px;  
+    padding-bottom: 150px;  
+    padding-left: 200px;  
+}
+
+h1{
+    text-align:center
+}
+
+
+
+.font{
+    font-family:cursive
+}
+
+.size{
+    font-size: 50px;
+}
